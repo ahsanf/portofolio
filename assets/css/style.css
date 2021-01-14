@@ -526,6 +526,11 @@ section {
     border-left: 2px solid #0563bb;
     position: relative;
 }
+.resume-item-last {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    position: relative;
+}
 
 .resume .resume-item h4 {
     line-height: 18px;
